@@ -1,4 +1,4 @@
-const CATEGORIES = ['News','Features','Editorial','Opinion','Sports','Campus Life','Photojournalism'];
+const CATEGORIES = ['News','Features','Editorial','Opinion','Sports','Campus Life','Literary','Photojournalism'];
 const placeholder = 'data:image/svg+xml;charset=UTF-8,' + encodeURIComponent(`<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750"><rect width="100%" height="100%" fill="#e6e3d9"/><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#476255" font-family="Georgia" font-size="54">Vox Templari</text></svg>`);
 
 const $ = s => document.querySelector(s);
